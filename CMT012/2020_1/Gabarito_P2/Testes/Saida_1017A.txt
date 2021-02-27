@@ -1,0 +1,7 @@
+Maior Peso: Alberto - 96.3 kg
+Menor Peso: Alberto - 96.3 kg
+Maior Altura: Alberto - 182 cm
+Menor Altura: Alberto - 182 cm
+Media Peso: 96.3 kg
+Media Altura: 182 cm
+Num Clientes: 1

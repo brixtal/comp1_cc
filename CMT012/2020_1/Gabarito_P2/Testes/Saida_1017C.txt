@@ -1,0 +1,7 @@
+Maior Peso: Alberto - 96.3 kg
+Menor Peso: Marcos - 55.0 kg
+Maior Altura: Tiago - 190 cm
+Menor Altura: Helena - 137 cm
+Media Peso: 74.3 kg
+Media Altura: 167 cm
+Num Clientes: 7

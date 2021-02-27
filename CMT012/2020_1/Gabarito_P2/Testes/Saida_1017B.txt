@@ -1,0 +1,7 @@
+Maior Peso: Alberto - 96.3 kg
+Menor Peso: Carla - 61.1 kg
+Maior Altura: Alberto - 182 cm
+Menor Altura: Maria - 165 cm
+Media Peso: 77.1 kg
+Media Altura: 172 cm
+Num Clientes: 4
